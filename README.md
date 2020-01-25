@@ -1,4 +1,4 @@
-# Infusion Profiler: Medical Device DataSet Used 
+# Infusion Profiler: Medical Device Dataset Constructed
 Intravenous Drug Delivery Devices
 
 Set of real data with a representation of the main rates of used flows in gravitational and pumps infusions.
